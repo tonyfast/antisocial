@@ -13,3 +13,8 @@ it is at the frame that we can move closer to meeting artists where they are in 
 through this lens, the talk invites folks to experiment with art and reproduction as a method for rethinking technical practice. 
 making art, even imperfectly, cultivates questions that help bring accessibility earlier into the process: what am i including and excluding, 
 how do i make the implicit explicit, how can i make the imperceptible perceptible.
+
+## marginalia
+
+i want to acknowledge that there is a paper called the [the anti-social model of disability](https://www.tandfonline.com/doi/abs/10.1080/0968759042000181776).
+it critiques the social models of disability. not surprised, there is so much shit talking in accessibility. (note the README author perpetuating more shit talking). the discerning goal for this specific talk is to offer prescriptive and active suggests for being art and accessibility enthusiasts.
