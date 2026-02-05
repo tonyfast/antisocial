@@ -1,4 +1,4 @@
-# an antisocial framing of disability
+# an antisocial framing of technical disability
 
 > “The poet, the artist, the sleuth—whoever sharpens our perception tends to be antisocial; rarely “well adjusted,” <ins>t</ins>he<ins>y</ins> cannot go along with currents and trends.” - marshall mcluhan
 
