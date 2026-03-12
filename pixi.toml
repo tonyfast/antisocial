@@ -1,0 +1,23 @@
+[workspace]
+authors = ["tonyfast <tony.fast@uw.edu>"]
+channels = ["conda-forge"]
+name = "antisocial"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.14.3,<3.15"
+jinja2 = ">=3.1.6,<4"
+toolz = ">=1.1.0,<2"
+python-slugify = ">=8.0.4,<9"
+bs4 = ">=4.14.3,<5"
+markdown-it-py = ">=4.0.0,<5"
+linkify-it-py = ">=2.0.3,<3"
+mdit-py-plugins = ">=0.5.0,<0.6"
+pygments = ">=2.19.2,<3"
+anyio = ">=4.12.1,<5"
+
+[pypi-dependencies]
+nbref = { url = "https://github.com/tonyfast/nbref/archive/5431e909706cabfbf02a41e0c727e6f20edc5c5e.zip" }
